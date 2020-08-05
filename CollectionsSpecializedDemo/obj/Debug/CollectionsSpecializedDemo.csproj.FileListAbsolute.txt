@@ -1,0 +1,7 @@
+E:\Dot Net\CollectionsSpecializedDemo\CollectionsSpecializedDemo\bin\Debug\CollectionsSpecializedDemo.exe.config
+E:\Dot Net\CollectionsSpecializedDemo\CollectionsSpecializedDemo\bin\Debug\CollectionsSpecializedDemo.exe
+E:\Dot Net\CollectionsSpecializedDemo\CollectionsSpecializedDemo\bin\Debug\CollectionsSpecializedDemo.pdb
+E:\Dot Net\CollectionsSpecializedDemo\CollectionsSpecializedDemo\obj\Debug\CollectionsSpecializedDemo.csprojAssemblyReference.cache
+E:\Dot Net\CollectionsSpecializedDemo\CollectionsSpecializedDemo\obj\Debug\CollectionsSpecializedDemo.csproj.CoreCompileInputs.cache
+E:\Dot Net\CollectionsSpecializedDemo\CollectionsSpecializedDemo\obj\Debug\CollectionsSpecializedDemo.exe
+E:\Dot Net\CollectionsSpecializedDemo\CollectionsSpecializedDemo\obj\Debug\CollectionsSpecializedDemo.pdb
