@@ -1,0 +1,7 @@
+Q. Explore the following collection classes which comes under    System.Collections.Specialized :
+
+i) String Collection
+ii) String Dictionary
+iii) String Enumerator
+iv) Hybrid Dictionary
+v) List Dictionary
